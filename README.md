@@ -30,24 +30,36 @@
   </p>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://frzyc.github.io/genshin-optimizer/assets/go-yquJmXFB.png" alt="Genshin Optimizer Logo" width="150" height="150">
 </div>
 
+<div style="background-color: #193C47; border-left: 4px solid #4CB3D4; padding: 16px; border-radius: 8px; font-family: Arial, sans-serif; display: flex; gap: 8px;">
+  <svg class="svg-inline--fa fa-info-circle fa-w-16" style="width: 24px; height: 24px; color: #FFFFFF;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="info-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z"></path>
+  </svg>
+  
+  <strong style="color: #4CB3D4;">Nota:</strong> 
+  <span style="color: #FFFFFF;">El contenido de esta guía asume que el lector está familiarizado con el uso de las características básicas de</span>
+  <code style="color: #FFD700;">Genshin Optimizer</code>
+</div>
+
 ## Introduccion
+
+En Genshin Optimizer, el **_"multi-target optimization"_** es un método avanzado de optimización que puede generar builds mejores y más equilibrados para tus personajes.
 
 Este documento proporciona varias configuraciones de Objetivos Personalizados para que pueda utilizarlas con los personajes en cuestion en [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/).
 
 Para guías en vídeo sobre el uso del Optimizer: [Genshin Optimizer Tutoriales - YouTube](https://www.youtube.com/playlist?list=PLcVsEMZO5IVFQdeh8zteZwiNchObfQ684)
 
-Si tiene configuraciones personalizadas que le gustaría ver incluidas, ¡estamos encantados de recibir sus sugerencias! Puede hacerlo de dos maneras:
+> Si tiene configuraciones personalizadas que le gustaría ver incluidas, ¡estamos encantados de recibir sus sugerencias! Puede hacerlo de dos maneras:
+>
+> 1.  Enviando un _pull request_ con la configuración que desea agregar.
+> 2.  Solicitando la inclusión directamente a través de Discord.
+>
+> > Además, si ya cuentas con configuraciones propias que desee compartir con la comunidad, no dude en contribuir mediante un _pull request_. Su participación es muy valiosa y ayuda a enriquecer este proyecto.
 
-1. Enviando un _pull request_ con la configuración que desea agregar.
-2. Solicitando la inclusión directamente a través de Discord.
-
-> Además, si ya cuentas con configuraciones propias que desee compartir con la comunidad, no dude en contribuir mediante un _pull request_. Su participación es muy valiosa y ayuda a enriquecer este proyecto.
-
-Para consultas o sugerencias, puede contactarnos en Discord:
+### Para consultas o sugerencias, puede contactarnos en Discord:
 
 <div>
   <a href="https://discord.com/users/351091632378216458">
