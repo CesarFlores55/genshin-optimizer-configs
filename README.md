@@ -83,7 +83,7 @@ Para guías en vídeo sobre el uso del Optimizer: [Genshin Optimizer Tutoriales 
 - [ ] Chasca
 - [ ] Faruzan
 - [ ] Jean
-- [ ] Kadehara Kazuha
+- [x] Kaedehara Kazuha
 - [ ] Lynette
 - [ ] Sayu
 - [ ] Shinkanoin Heizou

@@ -1,0 +1,78 @@
+{
+  "name": "C6 Kazuha carry, multi target",
+  "description": "",
+  "targets": [
+    {
+      "weight": 30,
+      "path": ["reaction", "pyroSwirl"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 3,
+      "path": ["passive1", "absorb"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 1,
+      "path": ["skill", "hold"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 3,
+      "path": ["skill", "pdmg"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 3,
+      "path": ["skill", "phigh"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 2,
+      "path": ["skill", "press"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 1,
+      "path": ["burst", "dmg"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 5,
+      "path": ["burst", "dot"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 5,
+      "path": ["burst", "absorb"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 3,
+      "path": ["normal", "0"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 3,
+      "path": ["charged", "dmg1"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 3,
+      "path": ["charged", "dmg2"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    }
+  ]
+}
