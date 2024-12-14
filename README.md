@@ -128,7 +128,7 @@ Para guías en vídeo sobre el uso del Optimizer: [Genshin Optimizer Tutoriales 
 <details id="Electro"><summary>4. Electro</summary>
 
 - [ ] Beidou
-- [ ] Clorinde
+- [x] Clorinde
 - [ ] Cyno
 - [ ] Dori
 - [ ] Fischl

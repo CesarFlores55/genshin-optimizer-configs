@@ -1,0 +1,89 @@
+{
+    "name": "C1 Clorinde Aggravate [Q 5N3E]",
+    "targets": [
+        {
+            "weight": 3,
+            "path": [
+                "burst",
+                "skillDmg"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 2,
+            "path": [
+                "burst",
+                "skillDmg"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "aggravate",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 7,
+            "path": [
+                "skill",
+                "piercingDmg"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "aggravate",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 8,
+            "path": [
+                "skill",
+                "piercingDmg"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 5,
+            "path": [
+                "skill",
+                "thrust3Dmg"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "aggravate",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 10,
+            "path": [
+                "skill",
+                "thrust3Dmg"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 6,
+            "path": [
+                "constellation1",
+                "dmg"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "aggravate",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 6,
+            "path": [
+                "constellation1",
+                "dmg"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        }
+    ]
+}
