@@ -113,7 +113,7 @@ Para guías en vídeo sobre el uso del Optimizer: [Genshin Optimizer Tutoriales 
 
 <details id="Dendro"><summary>3. Dendro</summary>
 
-- [ ] Alhaitham
+- [x] Alhaitham
 - [ ] Baizhu
 - [ ] Collei
 - [ ] Emilie

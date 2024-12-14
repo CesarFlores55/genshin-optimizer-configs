@@ -1,0 +1,80 @@
+{
+    "name": "Haitham Aggr. Combo",
+    "description": "",
+    "targets": [
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "rushDmg"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "spread",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 9,
+            "path": [
+                "skill",
+                "mirrorDmg1"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 9,
+            "path": [
+                "skill",
+                "mirrorDmg1"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "spread",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 2,
+            "path": [
+                "burst",
+                "instanceDmg"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 2,
+            "path": [
+                "burst",
+                "instanceDmg"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "spread",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 16,
+            "path": [
+                "normal",
+                "0"
+            ],
+            "hitMode": "avgHit",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 9,
+            "path": [
+                "normal",
+                "0"
+            ],
+            "hitMode": "avgHit",
+            "reaction": "spread",
+            "bonusStats": {},
+            "description": ""
+        }
+    ]
+}
