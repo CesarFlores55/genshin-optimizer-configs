@@ -1,0 +1,29 @@
+{
+  "name": "Venti 2E1Q ST",
+  "targets": [
+    {
+      "weight": 2,
+      "path": ["skill", "press"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 20,
+      "path": ["burst", "base"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 15,
+      "path": ["burst", "absorb"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 9,
+      "path": ["reaction", "cryoSwirl"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    }
+  ]
+}

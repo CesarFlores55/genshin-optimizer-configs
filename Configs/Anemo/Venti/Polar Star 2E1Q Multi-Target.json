@@ -1,0 +1,47 @@
+{
+  "name": "Venti 2E1Q AoE Polar Star",
+  "targets": [
+    {
+      "weight": 2,
+      "path": ["normal", "0"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 1,
+      "path": ["charged", "aimed"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 10 }
+    },
+    {
+      "weight": 1,
+      "path": ["skill", "press"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 20 }
+    },
+    {
+      "weight": 20,
+      "path": ["burst", "base"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 30 }
+    },
+    {
+      "weight": 15,
+      "path": ["burst", "absorb"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 30 }
+    },
+    {
+      "weight": 1,
+      "path": ["skill", "press"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 48 }
+    },
+    {
+      "weight": 18,
+      "path": ["reaction", "cryoSwirl"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    }
+  ]
+}

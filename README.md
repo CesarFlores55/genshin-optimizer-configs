@@ -83,12 +83,12 @@ Para guías en vídeo sobre el uso del Optimizer: [Genshin Optimizer Tutoriales 
 - [ ] Chasca
 - [ ] Faruzan
 - [ ] Jean
-- [x] Kaedehara Kazuha
+- [x] [Kaedehara Kazuha](configs/Anemo/Kaedehara%20Kazuha/Kaedehara%20Kazuha.md)
 - [ ] Lynette
 - [ ] Sayu
 - [ ] Shinkanoin Heizou
 - [ ] Sucrose
-- [ ] Venti
+- [x] [Venti](configs/Anemo/Venti/Venti.md)
 - [ ] Wanderer
 - [ ] Xianyun
 - [ ] Xiao
