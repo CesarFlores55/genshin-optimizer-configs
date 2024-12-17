@@ -92,7 +92,7 @@ Para guías en vídeo sobre el uso del Optimizer:
 - [ ] Shinkanoin Heizou
 - [ ] Sucrose
 - [x] [Venti](./Configs/Anemo/Venti/Venti.md)
-- [ ] Wanderer
+- [x] [Wanderer](./Configs/Anemo/Wanderer/Wanderer.md)
 - [ ] Xianyun
 - [ ] Xiao
 </details>
