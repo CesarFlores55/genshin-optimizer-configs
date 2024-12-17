@@ -51,7 +51,10 @@ En Genshin Optimizer, el **_"multi-target optimization"_** es un método avanzad
 
 Este documento proporciona varias configuraciones de Objetivos Personalizados para que pueda utilizarlas con los personajes en cuestion en [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/).
 
-Para guías en vídeo sobre el uso del Optimizer: [Genshin Optimizer Tutoriales - YouTube](https://www.youtube.com/playlist?list=PLcVsEMZO5IVFQdeh8zteZwiNchObfQ684)
+Para guías en vídeo sobre el uso del Optimizer:
+
+- [Genshin Optimizer Guia](https://www.youtube.com/watch?v=fsiCvYQRgJE) _(en español)_
+- [Genshin Optimizer Tutoriales - YouTube](https://www.youtube.com/playlist?list=PLcVsEMZO5IVFQdeh8zteZwiNchObfQ684) _(en inglés)_
 
 > Si tiene configuraciones personalizadas que le gustaría ver incluidas, ¡estamos encantados de recibir sus sugerencias! Puede hacerlo de dos maneras:
 >
