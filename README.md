@@ -215,3 +215,5 @@ Para guías en vídeo sobre el uso del Optimizer:
 </a>
 
 ## Pautas de contribución
+
+¡Gracias por tu interés en contribuir a este proyecto! Aquí te explicamos cómo puedes participar: [Guia de contribución](CONTRIBUTING.md)
