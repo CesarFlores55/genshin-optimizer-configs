@@ -1,0 +1,151 @@
+{
+    "name": "[C6] MELT - E E3(tick) Q (wait) C4 J C4",
+    "description": "HECHO PARA / MADE FOR:\n- mavuika - citlali - xilonen - bennett",
+    "targets": [
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "skillDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 3,
+            "path": [
+                "skill",
+                "radianceDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 3,
+            "path": [
+                "constellation6",
+                "flamestriderDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "burst",
+                "skillDmg"
+            ],
+            "hitMode": "global",
+            "reaction": "melt",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 4,
+            "path": [
+                "constellation6",
+                "ringDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "reaction": "melt",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "reaction": "melt",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "reaction": "melt",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedCyclicDmg"
+            ],
+            "hitMode": "global",
+            "reaction": "melt",
+            "bonusStats": {},
+            "description": ""
+        },
+        {
+            "weight": 1,
+            "path": [
+                "skill",
+                "chargedFinalDmg"
+            ],
+            "hitMode": "global",
+            "bonusStats": {},
+            "description": ""
+        }
+    ]
+}
