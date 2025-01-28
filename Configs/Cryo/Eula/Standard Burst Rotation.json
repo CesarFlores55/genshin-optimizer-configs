@@ -1,0 +1,120 @@
+{
+  "name": "Standard Burst Rotation",
+  "description": "Eula's standard Burst rotation using the 4 PF set.",
+  "targets": [
+    {
+      "weight": 1,
+      "path": ["skill", "press"],
+      "hitMode": "avgHit",
+      "bonusStats": {}
+    },
+    {
+      "weight": 1,
+      "path": ["burst", "dmg"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9 }
+    },
+    {
+      "weight": 1,
+      "path": ["normal", "0"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9, "physical_enemyRes_": -40 }
+    },
+    {
+      "weight": 1,
+      "path": ["normal", "1"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9, "physical_enemyRes_": -40 }
+    },
+    {
+      "weight": 2,
+      "path": ["normal", "2"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9, "physical_enemyRes_": -40 }
+    },
+    {
+      "weight": 1,
+      "path": ["normal", "3"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9, "physical_enemyRes_": -40 }
+    },
+    {
+      "weight": 1,
+      "path": ["skill", "hold"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9, "cryo_enemyRes_": -24 }
+    },
+    {
+      "weight": 1,
+      "path": ["skill", "icewhirl"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 9, "cryo_enemyRes_": -24 }
+    },
+    {
+      "weight": 1,
+      "path": ["skill", "icewhirl"],
+      "hitMode": "avgHit",
+      "bonusStats": { "atk_": 18, "cryo_enemyRes_": -24 }
+    },
+    {
+      "weight": 1,
+      "path": ["passive1", "shatteredLightfallSword"],
+      "hitMode": "avgHit",
+      "bonusStats": {
+        "atk_": 18,
+        "physical_enemyRes_": -64,
+        "physical_dmg_": 25
+      }
+    },
+    {
+      "weight": 1,
+      "path": ["normal", "0"],
+      "hitMode": "avgHit",
+      "bonusStats": {
+        "atk_": 18,
+        "physical_enemyRes_": -64,
+        "physical_dmg_": 25
+      }
+    },
+    {
+      "weight": 1,
+      "path": ["normal", "1"],
+      "hitMode": "avgHit",
+      "bonusStats": {
+        "atk_": 18,
+        "physical_enemyRes_": -64,
+        "physical_dmg_": 25
+      }
+    },
+    {
+      "weight": 2,
+      "path": ["normal", "2"],
+      "hitMode": "avgHit",
+      "bonusStats": {
+        "atk_": 18,
+        "physical_enemyRes_": -64,
+        "physical_dmg_": 25
+      }
+    },
+    {
+      "weight": 1,
+      "path": ["normal", "3"],
+      "hitMode": "avgHit",
+      "bonusStats": {
+        "atk_": 18,
+        "physical_enemyRes_": -64,
+        "physical_dmg_": 25
+      }
+    },
+    {
+      "weight": 1,
+      "path": ["burst", "lightFallSwordNew"],
+      "hitMode": "avgHit",
+      "bonusStats": {
+        "atk_": 18,
+        "physical_enemyRes_": -64,
+        "physical_dmg_": 25
+      }
+    }
+  ]
+}
