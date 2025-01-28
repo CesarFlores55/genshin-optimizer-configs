@@ -101,7 +101,7 @@ Para guías en vídeo sobre el uso del Optimizer:
 
 - [ ] Chongyun
 - [ ] Diona
-- [ ] Eula
+- [x] [Eula](./Configs/Cryo/Eula/Eula.md)
 - [ ] Freminet
 - [ ] Ganyu
 - [ ] Kaeya
@@ -190,6 +190,7 @@ Para guías en vídeo sobre el uso del Optimizer:
 - [ ] Hu Tao
 - [ ] Klee
 - [ ] Liney
+- [x] Mavuika
 - [ ] Thoma
 - [ ] Xiangling
 - [ ] Xinyan
